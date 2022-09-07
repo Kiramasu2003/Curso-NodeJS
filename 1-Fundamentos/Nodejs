@@ -1,0 +1,23 @@
+NodeJS vuelve a JS en un lenguaje capaz de crear backend, así como acceder al SO, archivos del equipo, y sus proceso
+Actualmente el mejor motor es de Google, llamado V8
+
+Que puedo hacer con Node?
+Uso de sockets para una comunicación Client-server
+Manejo de archivos en FileSystem, cargas simultaneas
+Servers locales o remotos en tiempo real
+Conexión con BD
+Creación de servicios REST en seg
+
+Es popular:
+Estradas y salidas que no realizan bloqueos del servidor
+Es sumamente rápido y fácil de configurar
+Más de 470K paquetes disponibles(librerias NPM)
+JS es la gran parte de Node, por lo que es fácil de aprender
+
+Usados por:
+Netflix
+Paypal
+Linkedin
+Walmart
+Uber
+Nasa
